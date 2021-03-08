@@ -1,0 +1,33 @@
+there is string value in coordinate sheet , please first convert that field to number
+
+https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
+
+https://geopandas.org/install.html#installing-with-pip
+https://geopandas.org/mapping.html
+http://ryan-m-cooper.com/blog/gps-points-to-line-segments.html
+
+https://stackoverflow.com/questions/39333004/use-python-script-to-extract-data-from-excel-sheet-and-input-into-website
+
+https://ipyleaflet.readthedocs.io/en/latest/usage.html
+https://ipyleaflet.readthedocs.io/en/latest/api_reference/polyline.html
+https://jupyter.readthedocs.io/en/latest/
+
+https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a
+https://github.com/jupyter-widgets
+https://github.com/jupyter-widgets/ipyleaflet
+https://github.com/pbugnion/gmaps
+https://medium.com/@stevenvandorpe/gmplot-in-jupyter-installation-guide-and-package-exploration-338756e8f26
+
+how to run?: jupyter notebook
+
+https://github.com/gmplot/gmplot
+https://addmap.net/
+https://stackoverflow.com/questions/50977913/google-maps-shows-for-development-purposes-only
+https://addmap.net/en/google-maps-api-key
+
+https://jupyter-gmaps.readthedocs.io/en/latest/
+
+gmap.marker(13.08, 100.88, title="2015" ,color='blue')
+gmap.text(37.766942, -122.441472, 'Buena Vista Park', color='blue')
+
+https://songhuiming.github.io/pages/2017/04/02/jupyter-and-pandas-display/
